@@ -9,7 +9,7 @@
 /* Begin PBXBuildFile section */
 		C64ABED624DBEE9500E62579 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C64ABED524DBEE9500E62579 /* AppDelegate.swift */; };
 		C64ABED824DBEE9500E62579 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C64ABED724DBEE9500E62579 /* SceneDelegate.swift */; };
-		C64ABEDA24DBEE9500E62579 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C64ABED924DBEE9500E62579 /* ContentView.swift */; };
+		C64ABEDA24DBEE9500E62579 /* TextfieldAlert.swift in Sources */ = {isa = PBXBuildFile; fileRef = C64ABED924DBEE9500E62579 /* TextfieldAlert.swift */; };
 		C64ABEDC24DBEE9600E62579 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C64ABEDB24DBEE9600E62579 /* Assets.xcassets */; };
 		C64ABEDF24DBEE9600E62579 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C64ABEDE24DBEE9600E62579 /* Preview Assets.xcassets */; };
 		C64ABEE224DBEE9600E62579 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C64ABEE024DBEE9600E62579 /* LaunchScreen.storyboard */; };
@@ -19,7 +19,7 @@
 		C64ABED224DBEE9500E62579 /* PopupProgressView.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PopupProgressView.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C64ABED524DBEE9500E62579 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		C64ABED724DBEE9500E62579 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		C64ABED924DBEE9500E62579 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		C64ABED924DBEE9500E62579 /* TextfieldAlert.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextfieldAlert.swift; sourceTree = "<group>"; };
 		C64ABEDB24DBEE9600E62579 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C64ABEDE24DBEE9600E62579 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		C64ABEE124DBEE9600E62579 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -58,7 +58,7 @@
 			children = (
 				C64ABED524DBEE9500E62579 /* AppDelegate.swift */,
 				C64ABED724DBEE9500E62579 /* SceneDelegate.swift */,
-				C64ABED924DBEE9500E62579 /* ContentView.swift */,
+				C64ABED924DBEE9500E62579 /* TextfieldAlert.swift */,
 				C64ABEDB24DBEE9600E62579 /* Assets.xcassets */,
 				C64ABEE024DBEE9600E62579 /* LaunchScreen.storyboard */,
 				C64ABEE324DBEE9600E62579 /* Info.plist */,
@@ -148,7 +148,7 @@
 			files = (
 				C64ABED624DBEE9500E62579 /* AppDelegate.swift in Sources */,
 				C64ABED824DBEE9500E62579 /* SceneDelegate.swift in Sources */,
-				C64ABEDA24DBEE9500E62579 /* ContentView.swift in Sources */,
+				C64ABEDA24DBEE9500E62579 /* TextfieldAlert.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
