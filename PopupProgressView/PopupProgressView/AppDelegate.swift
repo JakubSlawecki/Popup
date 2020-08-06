@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  Popup
+//  PopupProgressView
 //
 //  Created by Jakub Slawecki on 06/08/2020.
 //  Copyright © 2020 Jakub Slawecki. All rights reserved.

@@ -7,27 +7,27 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		C64ABEB624DBEE1200E62579 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C64ABEB524DBEE1200E62579 /* AppDelegate.swift */; };
-		C64ABEB824DBEE1200E62579 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C64ABEB724DBEE1200E62579 /* SceneDelegate.swift */; };
-		C64ABEBA24DBEE1200E62579 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C64ABEB924DBEE1200E62579 /* ViewController.swift */; };
-		C64ABEBD24DBEE1200E62579 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C64ABEBB24DBEE1200E62579 /* Main.storyboard */; };
-		C64ABEBF24DBEE1300E62579 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C64ABEBE24DBEE1300E62579 /* Assets.xcassets */; };
-		C64ABEC224DBEE1300E62579 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C64ABEC024DBEE1300E62579 /* LaunchScreen.storyboard */; };
+		C64ABED624DBEE9500E62579 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C64ABED524DBEE9500E62579 /* AppDelegate.swift */; };
+		C64ABED824DBEE9500E62579 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C64ABED724DBEE9500E62579 /* SceneDelegate.swift */; };
+		C64ABEDA24DBEE9500E62579 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C64ABED924DBEE9500E62579 /* ContentView.swift */; };
+		C64ABEDC24DBEE9600E62579 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C64ABEDB24DBEE9600E62579 /* Assets.xcassets */; };
+		C64ABEDF24DBEE9600E62579 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C64ABEDE24DBEE9600E62579 /* Preview Assets.xcassets */; };
+		C64ABEE224DBEE9600E62579 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C64ABEE024DBEE9600E62579 /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		C64ABEB224DBEE1200E62579 /* Popup.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Popup.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		C64ABEB524DBEE1200E62579 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		C64ABEB724DBEE1200E62579 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		C64ABEB924DBEE1200E62579 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		C64ABEBC24DBEE1200E62579 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		C64ABEBE24DBEE1300E62579 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		C64ABEC124DBEE1300E62579 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		C64ABEC324DBEE1300E62579 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C64ABED224DBEE9500E62579 /* PopupProgressView.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PopupProgressView.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		C64ABED524DBEE9500E62579 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		C64ABED724DBEE9500E62579 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		C64ABED924DBEE9500E62579 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		C64ABEDB24DBEE9600E62579 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		C64ABEDE24DBEE9600E62579 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		C64ABEE124DBEE9600E62579 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		C64ABEE324DBEE9600E62579 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		C64ABEAF24DBEE1100E62579 /* Frameworks */ = {
+		C64ABECF24DBEE9500E62579 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -37,72 +37,80 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		C64ABEA924DBEE1100E62579 = {
+		C64ABEC924DBEE9500E62579 = {
 			isa = PBXGroup;
 			children = (
-				C64ABEB424DBEE1200E62579 /* Popup */,
-				C64ABEB324DBEE1200E62579 /* Products */,
+				C64ABED424DBEE9500E62579 /* PopupProgressView */,
+				C64ABED324DBEE9500E62579 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		C64ABEB324DBEE1200E62579 /* Products */ = {
+		C64ABED324DBEE9500E62579 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				C64ABEB224DBEE1200E62579 /* Popup.app */,
+				C64ABED224DBEE9500E62579 /* PopupProgressView.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		C64ABEB424DBEE1200E62579 /* Popup */ = {
+		C64ABED424DBEE9500E62579 /* PopupProgressView */ = {
 			isa = PBXGroup;
 			children = (
-				C64ABEB524DBEE1200E62579 /* AppDelegate.swift */,
-				C64ABEB724DBEE1200E62579 /* SceneDelegate.swift */,
-				C64ABEB924DBEE1200E62579 /* ViewController.swift */,
-				C64ABEBB24DBEE1200E62579 /* Main.storyboard */,
-				C64ABEBE24DBEE1300E62579 /* Assets.xcassets */,
-				C64ABEC024DBEE1300E62579 /* LaunchScreen.storyboard */,
-				C64ABEC324DBEE1300E62579 /* Info.plist */,
+				C64ABED524DBEE9500E62579 /* AppDelegate.swift */,
+				C64ABED724DBEE9500E62579 /* SceneDelegate.swift */,
+				C64ABED924DBEE9500E62579 /* ContentView.swift */,
+				C64ABEDB24DBEE9600E62579 /* Assets.xcassets */,
+				C64ABEE024DBEE9600E62579 /* LaunchScreen.storyboard */,
+				C64ABEE324DBEE9600E62579 /* Info.plist */,
+				C64ABEDD24DBEE9600E62579 /* Preview Content */,
 			);
-			path = Popup;
+			path = PopupProgressView;
+			sourceTree = "<group>";
+		};
+		C64ABEDD24DBEE9600E62579 /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+				C64ABEDE24DBEE9600E62579 /* Preview Assets.xcassets */,
+			);
+			path = "Preview Content";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		C64ABEB124DBEE1100E62579 /* Popup */ = {
+		C64ABED124DBEE9500E62579 /* PopupProgressView */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = C64ABEC624DBEE1300E62579 /* Build configuration list for PBXNativeTarget "Popup" */;
+			buildConfigurationList = C64ABEE624DBEE9600E62579 /* Build configuration list for PBXNativeTarget "PopupProgressView" */;
 			buildPhases = (
-				C64ABEAE24DBEE1100E62579 /* Sources */,
-				C64ABEAF24DBEE1100E62579 /* Frameworks */,
-				C64ABEB024DBEE1100E62579 /* Resources */,
+				C64ABECE24DBEE9500E62579 /* Sources */,
+				C64ABECF24DBEE9500E62579 /* Frameworks */,
+				C64ABED024DBEE9500E62579 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = Popup;
-			productName = Popup;
-			productReference = C64ABEB224DBEE1200E62579 /* Popup.app */;
+			name = PopupProgressView;
+			productName = PopupProgressView;
+			productReference = C64ABED224DBEE9500E62579 /* PopupProgressView.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		C64ABEAA24DBEE1100E62579 /* Project object */ = {
+		C64ABECA24DBEE9500E62579 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 1160;
 				LastUpgradeCheck = 1160;
 				ORGANIZATIONNAME = "Jakub Slawecki";
 				TargetAttributes = {
-					C64ABEB124DBEE1100E62579 = {
+					C64ABED124DBEE9500E62579 = {
 						CreatedOnToolsVersion = 11.6;
 					};
 				};
 			};
-			buildConfigurationList = C64ABEAD24DBEE1100E62579 /* Build configuration list for PBXProject "Popup" */;
+			buildConfigurationList = C64ABECD24DBEE9500E62579 /* Build configuration list for PBXProject "PopupProgressView" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -110,55 +118,47 @@
 				en,
 				Base,
 			);
-			mainGroup = C64ABEA924DBEE1100E62579;
-			productRefGroup = C64ABEB324DBEE1200E62579 /* Products */;
+			mainGroup = C64ABEC924DBEE9500E62579;
+			productRefGroup = C64ABED324DBEE9500E62579 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				C64ABEB124DBEE1100E62579 /* Popup */,
+				C64ABED124DBEE9500E62579 /* PopupProgressView */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		C64ABEB024DBEE1100E62579 /* Resources */ = {
+		C64ABED024DBEE9500E62579 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				C64ABEC224DBEE1300E62579 /* LaunchScreen.storyboard in Resources */,
-				C64ABEBF24DBEE1300E62579 /* Assets.xcassets in Resources */,
-				C64ABEBD24DBEE1200E62579 /* Main.storyboard in Resources */,
+				C64ABEE224DBEE9600E62579 /* LaunchScreen.storyboard in Resources */,
+				C64ABEDF24DBEE9600E62579 /* Preview Assets.xcassets in Resources */,
+				C64ABEDC24DBEE9600E62579 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		C64ABEAE24DBEE1100E62579 /* Sources */ = {
+		C64ABECE24DBEE9500E62579 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				C64ABEBA24DBEE1200E62579 /* ViewController.swift in Sources */,
-				C64ABEB624DBEE1200E62579 /* AppDelegate.swift in Sources */,
-				C64ABEB824DBEE1200E62579 /* SceneDelegate.swift in Sources */,
+				C64ABED624DBEE9500E62579 /* AppDelegate.swift in Sources */,
+				C64ABED824DBEE9500E62579 /* SceneDelegate.swift in Sources */,
+				C64ABEDA24DBEE9500E62579 /* ContentView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		C64ABEBB24DBEE1200E62579 /* Main.storyboard */ = {
+		C64ABEE024DBEE9600E62579 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				C64ABEBC24DBEE1200E62579 /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
-		C64ABEC024DBEE1300E62579 /* LaunchScreen.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				C64ABEC124DBEE1300E62579 /* Base */,
+				C64ABEE124DBEE9600E62579 /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -166,7 +166,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		C64ABEC424DBEE1300E62579 /* Debug */ = {
+		C64ABEE424DBEE9600E62579 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -226,7 +226,7 @@
 			};
 			name = Debug;
 		};
-		C64ABEC524DBEE1300E62579 /* Release */ = {
+		C64ABEE524DBEE9600E62579 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -280,36 +280,40 @@
 			};
 			name = Release;
 		};
-		C64ABEC724DBEE1300E62579 /* Debug */ = {
+		C64ABEE724DBEE9600E62579 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_ASSET_PATHS = "\"PopupProgressView/Preview Content\"";
 				DEVELOPMENT_TEAM = TNJ5QF4LT5;
-				INFOPLIST_FILE = Popup/Info.plist;
+				ENABLE_PREVIEWS = YES;
+				INFOPLIST_FILE = PopupProgressView/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "Jakub-Slawecki.Popup";
+				PRODUCT_BUNDLE_IDENTIFIER = "Jakub-Slawecki.PopupProgressView";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
-		C64ABEC824DBEE1300E62579 /* Release */ = {
+		C64ABEE824DBEE9600E62579 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_ASSET_PATHS = "\"PopupProgressView/Preview Content\"";
 				DEVELOPMENT_TEAM = TNJ5QF4LT5;
-				INFOPLIST_FILE = Popup/Info.plist;
+				ENABLE_PREVIEWS = YES;
+				INFOPLIST_FILE = PopupProgressView/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "Jakub-Slawecki.Popup";
+				PRODUCT_BUNDLE_IDENTIFIER = "Jakub-Slawecki.PopupProgressView";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -319,25 +323,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		C64ABEAD24DBEE1100E62579 /* Build configuration list for PBXProject "Popup" */ = {
+		C64ABECD24DBEE9500E62579 /* Build configuration list for PBXProject "PopupProgressView" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				C64ABEC424DBEE1300E62579 /* Debug */,
-				C64ABEC524DBEE1300E62579 /* Release */,
+				C64ABEE424DBEE9600E62579 /* Debug */,
+				C64ABEE524DBEE9600E62579 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		C64ABEC624DBEE1300E62579 /* Build configuration list for PBXNativeTarget "Popup" */ = {
+		C64ABEE624DBEE9600E62579 /* Build configuration list for PBXNativeTarget "PopupProgressView" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				C64ABEC724DBEE1300E62579 /* Debug */,
-				C64ABEC824DBEE1300E62579 /* Release */,
+				C64ABEE724DBEE9600E62579 /* Debug */,
+				C64ABEE824DBEE9600E62579 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = C64ABEAA24DBEE1100E62579 /* Project object */;
+	rootObject = C64ABECA24DBEE9500E62579 /* Project object */;
 }
